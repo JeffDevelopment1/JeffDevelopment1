@@ -1,8 +1,11 @@
 # About Me:
-Hello, my name is Alex! 
-Discord: @alexdevelopment_ 
-Code = Fun 
-This is my new account
+
+I been learning C# for 2 years html for 5 months and java script for 1 year
+
+- I'm based in Isle of man
+- I'm currently working PrismNet
+- I'm currently learning html/C++
+- I love pizza :D
 
 
 ## Socials:
